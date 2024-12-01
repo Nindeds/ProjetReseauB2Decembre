@@ -76,10 +76,6 @@ Tous les équipements nécessitant une alimentation via Ethernet (bornes Wi-Fi, 
 
 Les switchs choisis, MS250 (370W PoE) et MS390 (720W PoE), peuvent alimenter tous les équipements nécessaires.
 
-## 3.2. Bande Passante
-
-Les switchs Meraki choisis offrent une bande passante de 1G pour les MS250 et de 10G pour les MS390, garantissant une capacité suffisante pour le trafic réseau du bâtiment. Les bornes Wi-Fi 6E sont également optimisées pour des vitesses élevées et une capacité d'appareils connectés plus élevée.
-
 # 4. Datasheets des Équipements Choisis
 
 ## 4.1. Meraki MS390-48U (Switch Cœur)
@@ -87,20 +83,20 @@ Les switchs Meraki choisis offrent une bande passante de 1G pour les MS250 et de
 - **PoE** : 720W
 - **Caractéristiques principales** : Optimisé pour des réseaux larges, gestion via le Cloud Meraki.
 
-[Datasheet Meraki MS390-48U](https://www.meraki.com)
+[Datasheet Meraki MS390-48U](https://meraki.cisco.com/fr-fr/product/switches/stackable-access-switches/ms390-48/)
 
 ## 4.2. Meraki MS250-48 (Switch Distribution)
 - **Description** : Switch de distribution avec 48 ports Ethernet 1G
 - **PoE** : 370W
 - **Caractéristiques principales** : Fiabilité pour les réseaux intermédiaires, gestion cloud Meraki.
 
-[Datasheet Meraki MS250-48](https://www.meraki.com)
+[Datasheet Meraki MS250-48](https://meraki.cisco.com/fr-fr/product/switches/stackable-access-switches/ms250-48/)
 
 ## 4.3. Meraki MR57 (Borne Wi-Fi 6E)
 - **Description** : Borne Wi-Fi 6E offrant une couverture à haute densité
 - **Caractéristiques principales** : Supporte des vitesses rapides et une plus grande capacité d'appareils grâce à la technologie Wi-Fi 6E.
 
-[Datasheet Meraki MR57](https://www.meraki.com)
+[Datasheet Meraki MR57](https://meraki.cisco.com/fr-fr/product/wi-fi/indoor-access-points/mr57/)
 
 # Conclusion
 
